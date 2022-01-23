@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    "\\webapp"
+    "",
+    "\\webapp",
+    "\\webapp\\controller",
+    "\\webapp\\css",
+    "\\webapp\\i18n",
+    "\\webapp\\view"
   ],
+  "SelectedNode": "\\webapp\\view\\HelloPanel.view.xml",
   "PreviewInSolutionExplorer": false
 }
